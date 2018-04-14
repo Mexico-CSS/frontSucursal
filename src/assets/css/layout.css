@@ -1,0 +1,24 @@
+div.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    padding-left: 220px;
+    background: #ffffff;
+    border-bottom: 1px solid #ccc;
+    text-align: right;
+    height: 50px;
+}
+
+div.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+    z-index: 100;
+    background: rgb(17, 44, 96);;
+    color: #fff;
+    width: 220px;
+    height: 100%;
+}
